@@ -1,0 +1,28 @@
+_repo: The-Potter-s-CraftA-Practical-Guide-for-the-Studio-and-Workshop_40411
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Binns, Charles Fergus
+    alias: Binns, Charles F.
+    birthdate: 1857
+    deathdate: 1934
+    gutenberg_agent_id: '40611'
+    url: http://www.gutenberg.org/2009/agents/40611
+description: ''
+gutenberg_issued: '2012-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40411'
+  lccn: '22017241'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TP'
+- !lcsh 'Pottery'
+title: 'The Potter''s Craft: A Practical Guide for the Studio and Workshop'
+url: http://www.gutenberg.org/ebooks/40411
