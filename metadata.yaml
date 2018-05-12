@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40611'
     url: http://www.gutenberg.org/2009/agents/40611
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40411#The-Potter-s-CraftA-Practical-Guide-for-the-Studio-and-Workshop
 gutenberg_issued: '2012-08-04'
 gutenberg_type: Text
 identifiers:
